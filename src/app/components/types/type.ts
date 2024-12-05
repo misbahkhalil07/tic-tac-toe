@@ -1,0 +1,1 @@
+export type Player= "x"|"0"|"draw"|null
